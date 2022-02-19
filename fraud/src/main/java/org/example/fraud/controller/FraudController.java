@@ -1,7 +1,8 @@
 package org.example.fraud.controller;
 
 import lombok.AllArgsConstructor;
-import org.example.fraud.response.FraudCheckResponse;
+
+import org.example.clients.fraud.responses.FraudCheckResponse;
 import org.example.fraud.service.FraudCheckService;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
