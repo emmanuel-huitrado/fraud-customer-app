@@ -2,7 +2,7 @@ package org.example.notification.controller;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.example.notification.request.NotificationRequest;
+import org.example.clients.notification.request.NotificationRequest;
 import org.example.notification.service.NotificationService;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

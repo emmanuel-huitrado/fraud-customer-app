@@ -1,9 +1,10 @@
 package org.example.notification.service;
 
 import lombok.AllArgsConstructor;
+import org.example.clients.notification.request.NotificationRequest;
 import org.example.notification.model.Notification;
 import org.example.notification.repository.NotificationRepository;
-import org.example.notification.request.NotificationRequest;
+
 import org.springframework.stereotype.Service;
 import java.time.LocalDateTime;
 
