@@ -1,3 +1,5 @@
 /target/*.*
 /.idea/sonarlint/issuestore/index.pb
 /.idea/sonarlint/*.*
+/.idea/sonarlint/issuestore/*
+/clients/target/*
