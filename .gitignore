@@ -3,3 +3,4 @@
 /.idea/sonarlint/*.*
 /.idea/sonarlint/issuestore/*
 /clients/target/*
+/api-gateway/target/*
